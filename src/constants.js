@@ -28,6 +28,11 @@ export const TERRITORIES = [
     id: 'tundra',
     name: 'Tundra',
     superpower: 'Let it snow!'
+  },
+  {
+    id: 'school',
+    name: 'School',
+    superpower: 'Knowledge = Power'
   }
 ]
 
@@ -1832,5 +1837,9 @@ export const OTHER_KINGDOMS = [
     {
         app: 'https://affectionate-hugle-3959ea.netlify.com',
         ruler: 'major_tangomj.id.blockstack'
-    }                       
+    },
+    {
+        app: 'https://animols.netlify.com',
+        ruler: 'dolphingarlic.id.blockstack'
+    }
  ]
